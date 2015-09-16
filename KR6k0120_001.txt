@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:44:40.161478
+#+DATE: 2015-08-30 20:44:41.144332
 #+TITLE: 佛說八種長養功德經
 #+PROPERTY: CBETA_ID T24n1498
 #+PROPERTY: ID KR6k0120
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 24, No. 1498
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6k0120_T_000-1104b>¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6k0120_T_001-1104b> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1498¶
-
- 《佛說八種長養功德經》¶
+No. 1498¶
+《佛說八種長養功德經》¶
 ¶
 西天譯經三藏朝散大夫試鴻臚卿¶
 傳梵大師賜紫沙門臣法護等奉詔譯¶
@@ -42,7 +41,7 @@ No.1498¶
 歸依僧，調伏勝尊。如是三寶是所歸趣。我某
 <pb:KR6k0120_T_001-1104c>¶
 甲淨信優婆塞，惟願阿闍梨憶持護念我。¶
-從今日今時發起淨心，乃至過是夜分，訖¶
+從今日今時發起淨心，乃至過是夜分，汔¶
 於明旦日初出時，於其中間奉持八戒。所謂：¶
 一、不殺生，二、不偷盜，三、不非梵行，四、不妄¶
 語，五、不飲酒，六、不非時食，七、不花鬘莊嚴其¶
