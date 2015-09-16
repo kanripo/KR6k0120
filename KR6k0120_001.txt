@@ -1,23 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:44:40.161478
+#+DATE: 2015-08-30 20:44:40.966685
 #+TITLE: 佛說八種長養功德經
 #+PROPERTY: CBETA_ID T24n1498
 #+PROPERTY: ID KR6k0120
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 24, No. 1498
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6k0120_T_000-1104b>¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6k0120_T_001-1104b> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1498¶
-
- 《佛說八種長養功德經》¶
+No. 1498¶
+《佛說八種長養功德經》¶
 ¶
-西天譯經三藏朝散大夫試鴻臚卿¶
-傳梵大師賜紫沙門臣法護等奉詔譯¶
+宋西天三藏朝散大夫試鴻臚卿¶
+傳梵大師法護等奉詔譯¶
 
 歸命一切佛！惟願一切佛、菩薩眾攝受於我！¶
 即說伽陀頌曰：¶
